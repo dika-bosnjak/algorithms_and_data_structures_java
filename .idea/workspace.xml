@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Arrays and ArrayLists in Java">
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Person.java" afterDir="false" />
+    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="LinkedLists in Java">
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedLists/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedLists/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedLists/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +57,19 @@
       <option name="project" value="LOCAL" />
       <updated>1671446324280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LinkedLists in Java">
+      <created>1671460340058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671460340058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Arrays and ArrayLists in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays and ArrayLists in Java" />
+    <MESSAGE value="LinkedLists in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedLists in Java" />
   </component>
 </project>
