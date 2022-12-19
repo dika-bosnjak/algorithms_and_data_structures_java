@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Data Structures in Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/AnagramProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayListClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/DutchNationalFlagProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/IntegerReversionProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PalindromeProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseArrayProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TrappingWaterProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Arrays and ArrayLists in Java">
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,6 +52,18 @@
       <option name="presentableId" value="Default" />
       <updated>1671202201268</updated>
     </task>
+    <task id="LOCAL-00001" summary="Arrays and ArrayLists in Java">
+      <created>1671446324280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671446324280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arrays and ArrayLists in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays and ArrayLists in Java" />
   </component>
 </project>
