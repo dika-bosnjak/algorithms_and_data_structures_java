@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Doubly Linked Lists in Java">
-      <change afterPath="$PROJECT_DIR$/src/ListVsArrayComparison/App.java" afterDir="false" />
+    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Speed comparison between array and linked list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedLists/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671462794888</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Speed comparison between array and linked list">
+      <created>1671463613444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671463613444</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Arrays and ArrayLists in Java" />
     <MESSAGE value="LinkedLists in Java" />
     <MESSAGE value="Doubly Linked Lists in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Doubly Linked Lists in Java" />
+    <MESSAGE value="Speed comparison between array and linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Speed comparison between array and linked list" />
   </component>
 </project>

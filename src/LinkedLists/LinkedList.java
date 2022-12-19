@@ -4,6 +4,34 @@ public class LinkedList<T extends Comparable<T>> implements  List<T>{
 
     private Node<T> root;
     private int numOfItems;
+
+    public Node<T> getMiddleNode() {
+        Node<T> slow = this.root;
+        Node<T> fast = this.root;
+
+        //O(N/2) = O(N)
+        while(fast.getNextNode() != null && fast.getNextNode().getNextNode() != null) {
+            slow = slow.getNextNode();
+            fast = fast.getNextNode().getNextNode();
+        }
+
+        return slow;
+    }
+
+    public void reverse() {
+        Node<T> currentNode = root;
+        Node<T> previousNode = null;
+        Node<T> nextNode = null;
+
+        while(currentNode != null) {
+            nextNode = currentNode.getNextNode();
+            currentNode.setNextNode(previousNode);
+            previousNode = currentNode;
+            currentNode = nextNode;
+        }
+        root = previousNode;
+    }
+
     @Override
     public void insert(T data) {
 
