@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Get the max item in the stack - problem resolved">
-      <change afterPath="$PROJECT_DIR$/src/Queues/QueueImplementationWithStack/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queues/QueueImplementationWithStack/Queue.java" afterDir="false" />
+    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Create the queue using 2 stacks - problem solved">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/TreeCompareProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +27,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ef1b3310-025b-41f4-9bb8-1bc4c5e16f8f" />
+        <option name="url" value="https://github.com/dika-bosnjak/algorithms_and_data_structures_java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
