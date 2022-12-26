@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Create the queue using 2 stacks - problem solved">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/TreeCompareProblem.java" afterDir="false" />
+    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Binary Search Trees imeplementation">
+      <change afterPath="$PROJECT_DIR$/src/AVLTree/AVL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AVLTree/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AVLTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AVLTree/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671529435427</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Binary Search Trees imeplementation">
+      <created>1671702068362</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671702068362</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +140,7 @@
     <MESSAGE value="Stack implementation" />
     <MESSAGE value="Queue implementation" />
     <MESSAGE value="Get the max item in the stack - problem resolved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Get the max item in the stack - problem resolved" />
+    <MESSAGE value="Binary Search Trees imeplementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search Trees imeplementation" />
   </component>
 </project>
