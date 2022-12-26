@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="Binary Search Trees imeplementation">
-      <change afterPath="$PROJECT_DIR$/src/AVLTree/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AVLTree/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AVLTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AVLTree/Tree.java" afterDir="false" />
+    <list default="true" id="7a5a5dd3-6ec3-4a84-a9cd-ddb8a99dd0d5" name="Changes" comment="AVL imeplementation (balanced binary search tree)">
+      <change afterPath="$PROJECT_DIR$/src/RedBlackTree/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedBlackTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedBlackTree/NodeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedBlackTree/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedBlackTree/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671702068362</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="AVL imeplementation (balanced binary search tree)">
+      <created>1672050304869</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672050304869</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +149,7 @@
     <MESSAGE value="Queue implementation" />
     <MESSAGE value="Get the max item in the stack - problem resolved" />
     <MESSAGE value="Binary Search Trees imeplementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Search Trees imeplementation" />
+    <MESSAGE value="AVL imeplementation (balanced binary search tree)" />
+    <option name="LAST_COMMIT_MESSAGE" value="AVL imeplementation (balanced binary search tree)" />
   </component>
 </project>
